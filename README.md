@@ -1,4 +1,4 @@
-<h1> Gerador de Sonetos <\h1>
+<h1> Gerador de Sonetos </h1>
 
 Aqui eu pretendi construir uma máquina de produzir sonetos  petrarquianos (2 quartetos e 2 tercetos) com rimas seguindo o esquema "abba abba cdc dcd". A contagem das sílabas é feita com a biblioteca pyhyphen https://pypi.org/project/pyphen/
 então não realiza a contagem de sílabas poéticas, que levam em conta a sonoridade, mas faz a contagem de sílabas gramaticais. Além disso alguns versos tem mais de dez sílabas, o que contraria a norma clássica para se fazer um soneto.
